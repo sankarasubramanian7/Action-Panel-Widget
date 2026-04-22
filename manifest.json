@@ -1,0 +1,20 @@
+{
+  "name": "action-panel-widget",
+  "label": "Action Panel",
+  "type": "widget",
+  "dependency": "jimu-arcgis",
+  "version": "1.19.0",
+  "exbVersion": "1.19.0",
+  "author": "Neo-Geo Developer",
+  "description": "A scalable action panel with grouped GIS operation buttons connected to a live map. Supports map controls, network operations, and analysis on real web map layers.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 380,
+    "height": 680
+  }
+}
